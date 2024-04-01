@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me ... Send an email
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I chew straws 
+- ⚡ Fun fact: I chew straws
+
+**Enjoying the Cogrammar Data Science Bootcamp**
 
 <!---
 ibienewarmann/ibienewarmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
